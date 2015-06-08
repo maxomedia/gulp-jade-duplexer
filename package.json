@@ -1,0 +1,20 @@
+{
+  "name": "gulp-jade-duplexer",
+  "version": "0.0.1",
+  "description": "Pass an array of objects to a jade compiler and get an html output for every entry in the array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "jade",
+    "multiple",
+    "output"
+  ],
+  "author": "oliver.schuerch@maxomedia.ch, philipp.gfeller@maxomedia.ch",
+  "license": "MIT",
+  "dependencies": {
+    "isarray": "0.0.1"
+  }
+}
